@@ -1,0 +1,14 @@
+{
+    "type": 0,
+    "bgColor": "white",
+    "width": 358,
+    "height": 441,
+    "headHeightMin": -1,
+    "headHeightMax": -1,
+    "eyeYMin": -1,
+    "eyeYMax": 0.53,
+    "headtopMarginMin": 0.016,
+    "headtopMarginMax": 0.048,
+    "faceWidthMin": 0.577,
+    "faceWidthMax": 0.59
+}
